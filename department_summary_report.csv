@@ -1,0 +1,6 @@
+department,count,min_salary,avg_salary,max_salary
+Engineering,5,72000,97000,120000
+Finance,2,68000,104000,140000
+HR,2,50000,62500,75000
+Marketing,3,55000,67000,88000
+Sales,3,48000,68333.33,95000
