@@ -89,7 +89,7 @@ A structured sample dataset representing 15 professionals across various departm
 
 1. Open PowerShell or Terminal in this folder:
    ```powershell
-   cd "d:\Digital Takhleeq\Projects\data-science"
+   cd "data-science"
    ```
 
 2. Run the analysis script:
